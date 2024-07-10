@@ -1,7 +1,0 @@
-name: Hello World
-
-on: push
-
-jobs:
-  hello-job:
-  runs-on:
